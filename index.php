@@ -491,7 +491,7 @@
             <!-- Section 3 Les Tableaux -->
 
             <section>
-                <h2>Section 1 Les Tableauxs</h2>
+                <h2>Section 3 Les Tableauxs</h2>
 
                 <ol>
                     <!-- EXO 1 -->
