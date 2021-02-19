@@ -376,11 +376,11 @@
 
                         function plusGrand($firstNumber , $secondNumber ){
                             if($firstNumber > $secondNumber){
-                                echo "Le premier nombre est plus grand";
+                                echo "Le premier nombre $firstNumber est plus grand que $secondNumber";
                             }elseif($firstNumber == $secondNumber){
-                                echo " Les deux nombres sont identiques";
+                                echo " Les deux nombres $firstNumber et $secondNumber sont identiques";
                             }else{
-                                echo "Le premier nombre est plus petit";
+                                echo "Le premier nombre $firstNumber est plus petit que $secondNumber";
                             }
                         };
 
